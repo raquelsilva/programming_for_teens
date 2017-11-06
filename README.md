@@ -1,2 +1,2 @@
-# python_for_teens
-Mathematics, physics and Geosciences for teenagers 
+# Python for Teens
+Mathematics, Physics and Geosciences for teenagers 
