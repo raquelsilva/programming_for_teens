@@ -1,5 +1,5 @@
 # Programming for Teens
-Lesson based on the scholar curriculum for teenagers from 14 up to 17 years old. 
+Lesson based on the secondary curriculum for teenagers from 13 up to 17 years old. 
 
 <ul>
   <li><b>First Lesson:</b> Instalation and basic instructions about Jupyter notebook and Python.</li>
