@@ -1,4 +1,4 @@
-# Programming for Teens
+# Programming in Python for Teens
 Lesson based on the scholar curriculum for teenagers from 14 up to 17 years old. 
 
 <ul>
