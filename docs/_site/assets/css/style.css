@@ -886,7 +886,7 @@ footer {
 @media print {
   body {
     padding: 0.4in;
-    font-size: 12pt;
+    font-size: 14pt;
     color: #444; } }
 @media print, screen and (max-height: 680px) {
   footer {
