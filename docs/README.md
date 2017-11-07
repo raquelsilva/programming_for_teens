@@ -1,6 +1,6 @@
 <h1>Studying interactively with Python</h1>
 
-Lessons based on the Cambridge lower secondary curriculum for teenagers from 11 up to 15 years old. To access the lessons click on the links bellow or download the notebooks.
+Lessons based on the Cambridge lower secondary curriculum for teenagers from 11 up to 15 years old. To access the lessons click on the left hand link or download the notebooks.
 
 The content exhibited at the website is slightly different from the content available at the notebooks. I am using this feature to make it more interesting for teenagers. But if you want to interact with the codes it is necessary to download the notebooks and follow the instructions.
 
