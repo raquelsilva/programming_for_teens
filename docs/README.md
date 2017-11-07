@@ -58,35 +58,23 @@ If you'd like to add your own custom styles:
 
 ### Layouts
 
-If you'd like to change the theme's HTML layout:
+<h1>Studying interactively with Python</h1>
 
-1. [Copy the original template](https://github.com/pages-themes/leap-day/blob/master/_layouts/default.html) from the theme's repository<br />(*Pro-tip: click "raw" to make copying easier*)
-2. Create a file called `/_layouts/default.html` in your site
-3. Paste the default layout content copied in the first step
-4. Customize the layout as you'd like
+Lessons based on the Cambridge lower secondary curriculum for teenagers from 11 up to 15 years old. 
 
-## Roadmap
+<div>
+  <ul>
+    <li><b>First Lesson:</b> Instalation and basic instructions about Jupyter notebook and Python.</li>
+    <li><b>Second Lesson:</b> Integers, Powers and Roots - with an example of algorithm to calculate compound interest.</li>
+  </ul>  
+</div>
 
-See the [open issues](https://github.com/pages-themes/leap-day/issues) for a list of proposed features (and known issues).
+As new classes are being added the list above will be updated.
 
-## Project philosophy
+The content exhibited at the website is slightly different from the content available at the notebooks. I am using this feature to make it more interesting for teenagers. But if you want to interact with the codes it is necessary to download the notebooks and follow the instructions.
 
-The Leap day theme is intended to make it quick and easy for GitHub Pages users to create their first (or 100th) website. The theme should meet the vast majority of users' needs out of the box, erring on the side of simplicity rather than flexibility, and provide users the opportunity to opt-in to additional complexity if they have specific needs or wish to further customize their experience (such as adding custom CSS or modifying the default layout). It should also look great, but that goes without saying.
+The first instruction is: download the package Anaconda to be able to interact with the codes. You can use this <a href="https://www.anaconda.com">link</a>. After the installation, you need to launch the module named "Jupyter Notebook". If you only need to see the content inside of the notebooks you just need to click on the files listed at the github or you can open it using an external viewer named "nbviewer". You can find it using this <a href="https://nbviewer.jupyter.org">link</a>. To open the notebook, copy and paste the address of the page.
 
-## Contributing
+You can create a new notebook and add only the codes you are interested to test or you can use the notebooks I have created by restarting the  "Kernel" at the upper toolbar. Look at the <a href="https://github.com/raquelsilva/programming_for_teens/wiki/First-step">wiki</a> how to do it.
 
-Interested in contributing to Leap day? We'd love your help. Leap day is an open source project, built one contribution at a time by users like you. See [the CONTRIBUTING file](CONTRIBUTING.md) for instructions on how to contribute.
-
-### Previewing the theme locally
-
-If you'd like to preview the theme locally (for example, in the process of proposing a change):
-
-1. Clone down the theme's repository (`git clone https://github.com/pages-themes/leap-day`)
-2. `cd` into the theme's directory
-3. Run `script/bootstrap` to install the necessary dependencies
-4. Run `bundle exec jekyll serve` to start the preview server
-5. Visit [`localhost:4000`](http://localhost:4000) in your browser to preview the theme
-
-### Running tests
-
-The theme contains a minimal test suite, to ensure a site with the theme would build successfully. To run the tests, simply run `script/cibuild`. You'll need to run `script/bootstrap` one before the test script will work.
+If you have questions, feel invited to contact me.
