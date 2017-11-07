@@ -17,7 +17,7 @@ The first instruction is: download the package Anaconda to be able to interact w
 
 You can create a new notebook and add only the codes you are interested to test or you can use the notebook I have created and restart the  "Kernel" at the upper toolbar. See the image below and follow the arrow and the red box:
 
-[[https://github.com/raquelsilva/programming_for_teens/blob/html/images/toolbar.jpg]]
+![](https://github.com/raquelsilva/programming_for_teens/blob/html/images/toolbar.jpg)
 
 If you have questions, feel invited to contact me.
 
