@@ -4,7 +4,7 @@ Lessons based on the Cambridge lower secondary curriculum for teenagers from 11 
 
 <div>
   <ul>
-    <li><a href="Lesson1"><b>First Lesson:</b></a> Instalation and basic instructions about Jupyter notebook and Python.</li>
+    <li><a href="https://github.com/raquelsilva/programming_for_teens/blob/master/Lesson1.ipynb"><b>First Lesson:</b></a> Instalation and basic instructions about Jupyter notebook and Python.</li>
     <li><a href="Lesson1"><b>Second Lesson:</b></a> Integers, Powers and Roots - with an example of algorithm to calculate compound interest.</li>
   </ul>  
 </div>
