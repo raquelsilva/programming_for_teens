@@ -3,6 +3,13 @@ theme: jekyll-theme-leap-day
 show_downloads: true
 google_analytics:
 
+plugins:
+   - jekyll-mentions
+   - jemoji
+   - jekyll-redirect-from
+   - jekyll-sitemap
+   - jekyll-feed
+
 defaults:
   - scope:
       path: "assets/img"
