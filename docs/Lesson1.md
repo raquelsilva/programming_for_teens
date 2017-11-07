@@ -1,8 +1,4 @@
-<!doctype html>
-<html lang="en-US">
-  <head>
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="chrome=1">
+
 
 <!-- Begin Jekyll SEO tag v2.3.0 -->
 <title>Leap Day theme | Leap Day is a theme for GitHub Pages.</title>
@@ -228,4 +224,4 @@
 
     
   </body>
-</html>
+
