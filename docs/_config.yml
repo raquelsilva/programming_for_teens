@@ -9,6 +9,9 @@ plugins:
    - jekyll-redirect-from
    - jekyll-sitemap
    - jekyll-feed
+   - jekyll-avatar
+   - jekyll-seo-tag
+   - jekyll-include-cache
 
 defaults:
   - scope:
