@@ -2,6 +2,8 @@
 layout: default
 ---
 
+# Lesson 2: Integers, Powers and Roots
+
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](another-page).
