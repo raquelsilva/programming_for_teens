@@ -13,4 +13,8 @@ As new classes are being added the list above will be updated.
 
 The content exhibited at the website is slightly different from the content available at the notebooks. I am using this feature to make it more interesting for teenagers. But if you want to interact with the codes it is necessary to download the notebooks and follow the instructions.
 
-The first instruction is: download the package Anaconda to be able to interact with the codes. You can use this <a href="https://www.anaconda.com">link</a>. After the installation, to be able to open the notebooks you need to launch the module named "Jupyter Notebook". If you only need to see the content inside of the notebooks you just need to click on the files listed at the github or you can open it using an external viewer named "nbviewer". You can find it using this <a href="https://nbviewer.jupyter.org">link</a>. To open the notebook, copy and paste the address of the page.
+The first instruction is: download the package Anaconda to be able to interact with the codes. You can use this <a href="https://www.anaconda.com">link</a>. After the installation, you need to launch the module named "Jupyter Notebook". If you only need to see the content inside of the notebooks you just need to click on the files listed at the github or you can open it using an external viewer named "nbviewer". You can find it using this <a href="https://nbviewer.jupyter.org">link</a>. To open the notebook, copy and paste the address of the page.
+
+You can create a new notebook and add only the codes you are interested to test or you can use the notebook I have created and restart the compiler named "Kernel". 
+
+<script src="//repl.it/embed/Nrxi/0.js"></script>
