@@ -10,7 +10,7 @@ The Chineses, since 200 BCE (Before Common Era) were already using negative numb
 
 ![](assets/imgs/rodnumbers.jpg)
 > <center> Figure 1: Chinese Rod Numbers </center>
-<br>
+<br />
 
 So, this symbology for numbers used in China is called "Chinese Rod Numbers". The horizontal and vertical paterns associated with each number is meant for writing them together, laterally, alternating horizontal and vertical patterns. See the example bellow:
 
