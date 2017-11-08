@@ -27,12 +27,12 @@ In the daily life, positive and negative numbers were used to represent earnings
 
 >
 > My notebook:  <br />   
-> neighbor John - IIIII
-> Mary - <font color="red">IIIII</font>
-> Peter - <font color="red">III</font>
->
-> Total - <font color="red">III</font>
->
+> neighbor John - IIIII  <br />
+> Mary - <font color="red">IIIII</font>  <br />
+> Peter - <font color="red">III</font>  <br />
+> <br />
+> Total - <font color="red">III</font> <br />
+> <br />
 <br />   
 
 In this day you have a positive balance. You earned three Euro. Nice! So, notice that the red symbols cancels the black ones.
