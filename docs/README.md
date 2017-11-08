@@ -13,7 +13,7 @@ You can create a new notebook and add only the codes you are interested to test 
 <div>
   <ul>
     <li><a href="https://github.com/raquelsilva/programming_for_teens/blob/master/Lesson1.ipynb"><b>First Lesson:</b></a> Basic instructions about Jupyter notebook and Python.</li>
-    <li><a href="Lesson1"><b>Second Lesson:</b></a> Integers, Powers and Roots - with an example of algorithm to calculate compound interest.</li>
+    <li><a href="Lesson2"><b>Second Lesson:</b></a> Integers, Powers and Roots - with an example of algorithm to calculate compound interest.</li>
   </ul>  
 </div>
 
