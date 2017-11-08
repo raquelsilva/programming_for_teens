@@ -55,7 +55,7 @@ audio:not([controls]) {
  *    www.456bereastreet.com/archive/201012/controlling_text_size_in_safari_for_ios_without_disabling_user_zoom/
  */
 html {
-  font-size: 100%;
+  font-size: 120%;
   /* 1 */
   -webkit-text-size-adjust: 100%;
   /* 2 */
@@ -189,7 +189,7 @@ q:after {
   content: none; }
 
 small {
-  font-size: 75%; }
+  font-size: 85%; }
 
 /*
  * Prevents sub and sup affecting line-height in all browsers
@@ -197,7 +197,7 @@ small {
  */
 sub,
 sup {
-  font-size: 75%;
+  font-size: 85%;
   line-height: 0;
   position: relative;
   vertical-align: baseline; }
