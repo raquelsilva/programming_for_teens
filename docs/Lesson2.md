@@ -37,4 +37,4 @@ In the daily life, positive and negative numbers are used to represent earnings 
 
 In this day you have a positive balance. You earned three Euro. Nice! So, notice that the red symbols cancel the black ones.
 
-Let's now see graphically how this information could be represented. For this follow this [link](https://github.com/raquelsilva/programming_for_teens/blob/master/Integers.ipynb) to access one of the notebooks.
+Let's now see graphically how this information could be represented. For this, follow this [link](https://github.com/raquelsilva/programming_for_teens/blob/master/Integers.ipynb) to access one of the notebooks.
