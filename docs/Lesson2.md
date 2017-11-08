@@ -13,6 +13,8 @@ The Chineses, since 200 BCE (Before Common Era) were already using negative numb
 
 So, this symbology for numbers used in China is called "Chinese Rod Numbers". The horizontal and vertical paterns associated with each number is meant for writing them together, laterally, alternating horizontal and vertical patterns. See the example bellow:
 
+<center>
 ![](assets/imgs/spaces1.jpg)
+</center>
 > <center> Figure 2: Numbers 231, 5089 and 50089, respectively. </center>
 
