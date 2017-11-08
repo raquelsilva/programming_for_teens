@@ -38,3 +38,17 @@ In the daily life, positive and negative numbers are used to represent earnings 
 In this day you have a positive balance. You earned three Euro. Nice! So, notice that the red symbols cancel the black ones.
 
 Let's now see graphically how this information could be represented. For this, follow this [link](https://github.com/raquelsilva/programming_for_teens/blob/master/Integers.ipynb) to access one of the notebooks.
+
+References: 
+
+English Mathematicians
+Francis Maseres (1731 - 1824)
+A dissertation on the use of the negative sign in algebra. (1758)
+Fellow of Clare College Cambridge and Fellow of the Royal Society
+
+https://nrich.maths.org/5961
+
+Needham, J. (1986). Science and Civilization in China: Volume 3, Mathematics and the Sciences of the Heavens and the Earth. Taipei: Caves Books, Ltd.
+
+https://grahamshawcross.com/2014/02/06/five-finger-exercises/
+
