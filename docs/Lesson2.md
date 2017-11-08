@@ -29,7 +29,7 @@ In the daily life, positive and negative numbers were used to represent earnings
 > neighbor John - IIIII  <br />   
 > Mary - <font color="red">IIIII</font>  <br />   
 > Peter - <font color="red">III</font>  <br />   
-> <br />   
+> --------------------------------------------<br />   
 > Total - <font color="red">III</font>    
 <br />    
 
