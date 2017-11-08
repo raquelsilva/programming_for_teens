@@ -25,7 +25,7 @@ Observe the last number and how the zeros are represented. If only one zero were
 
 In the daily life, positive and negative numbers were used to represent earnings and debts. For example: let's say that you are selling apples. The apple costs 1 Euro each. John, your neighbor comes and buys 5 apples. You earn 5 Euro and John has less 5 Euro in his pocket. If John cannot pay you at that moment, he will be in debt of 5 Euro and you will take note in your notebook associating John with 5 black rods. Like this:
 
->
+> <br />   
 > My notebook:  <br />   
 > neighbor John - IIIII  <br />   
 > Mary - <font color="red">IIIII</font>  <br />   
