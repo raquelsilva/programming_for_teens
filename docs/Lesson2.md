@@ -18,6 +18,7 @@ So, this symbology for numbers used in China is called "Chinese Rod Numbers". Th
 ![image](assets/imgs/spaces1.jpg)
 {: refdef}
 > <center> Figure 2: Numbers 231, 5089 and 50089, respectively. </center>
-<br />
+<br />   
+
 
 Observe the last number; how the zeros are represented.
