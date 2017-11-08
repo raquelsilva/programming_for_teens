@@ -21,4 +21,12 @@ This symbology for numbers used in China is called "Chinese Rod Numbers". The ho
 <br />   
 
 
-Observe the last number; how the zeros are represented.
+Observe the last number and how the zeros are represented. If only one zero were inside of the blank space, the number 8 should be represented vertically, not horizontally, so, by deduction you find that there are two zeros at the blank space between 5 and 8. Interesting, right? 
+
+In the daily life, positive and negative numbers were used to represent earnings and debts. For example: let's say that you are selling apples. The apple costs 1 Euro each. John, your neighbor comes and buys 5 apples. You earn 5 Euro and John has less 5 Euro in his pocket. If John cannot pay you at that moment, he will be in debt of 5 Euro and you will take note in your notebook associating John with 5 black rods. Like this:
+
+>
+> My notebook:
+> neighbor John - IIIII
+>
+
