@@ -9,5 +9,5 @@ Integers are formed by the set of natural numbers plus the negative numbers. To 
 The Chineses, since 200 BCE (Before Common Era) were already using negative numbers to calculate taxes and commercial operations. To identify negative numbers they used colors - red for positive numbers and black for negative numbers. See the image below:
 
 ![](assets/imgs/rodnumbers.jpg)
-<center> > Figure 1: Chinese Rod Numbers </center>
+> <center> Figure 1: Chinese Rod Numbers </center>
 
