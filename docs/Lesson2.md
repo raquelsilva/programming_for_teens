@@ -30,7 +30,7 @@ In the daily life, positive and negative numbers were used to represent earnings
 > Mary - <font color="red">IIIII</font>  <br />   
 > Peter - <font color="red">III</font>  <br />   
 > <br />   
-> Total - <font color="red">III</font> <br />     
+> Total - <font color="red">III</font>    
 <br />    
 
 In this day you have a positive balance. You earned three Euro. Nice! So, notice that the red symbols cancel the black ones.
