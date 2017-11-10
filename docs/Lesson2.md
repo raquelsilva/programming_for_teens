@@ -39,7 +39,7 @@ In this day you have a positive balance. You earned three Euro. Nice! So, notice
 
 Let's now see graphically how this information could be represented. For this, follow this [link](https://github.com/raquelsilva/programming_for_teens/blob/master/Integers.ipynb) to access one of the notebooks.
 
-References: 
+<code class="highlighter-rouge">References:</code>
 
 English Mathematicians
 Francis Maseres (1731 - 1824)
