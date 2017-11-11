@@ -61,4 +61,11 @@ After thinking a while I started to see a light by analysing the name "square ro
 
 First I was thinking that I was spacing out with my observations, but when I found someone else talking the same thing I thought that this really worth to be shared.
 
-
+<div class="highlight"><pre><span></span><span class="n">reproject</span><span class="p">(</span><span class="n">source</span><span class="p">,</span>
+          <span class="n">dem_array</span><span class="p">,</span>
+          <span class="n">src_transform</span><span class="o">=</span><span class="n">src_transform</span><span class="p">,</span>
+          <span class="n">src_crs</span><span class="o">=</span><span class="n">src_crs</span><span class="p">,</span>
+          <span class="n">dst_transform</span><span class="o">=</span><span class="n">dst_transform</span><span class="p">,</span>
+          <span class="n">dst_crs</span><span class="o">=</span><span class="n">dst_crs</span><span class="p">,</span>
+          <span class="n">resampling</span><span class="o">=</span><span class="n">Resampling</span><span class="o">.</span><span class="n">bilinear</span><span class="p">)</span>
+</pre></div>
