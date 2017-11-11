@@ -15,8 +15,8 @@ You can create a new notebook and add only the codes you are interested to test 
     <li><a href="https://github.com/raquelsilva/programming_for_teens/blob/master/Lesson1.ipynb"><b>First Lesson:</b></a> Basic instructions about Jupyter notebook and Python.</li>
     <li><a href="Lesson2"><b>Second Lesson:</b></a> Integers, Powers and Roots - with an example of algorithm to calculate compound interest.</li>
       <ul>
-        <li> Algorithm to calculate compound interest - application for Powers</li>  
-        <li> Algorithm to calculate the Sieve of Eratosthenes - application for Roots</li>  
+        <li> Algorithm for calculating compound interest - application for Powers</li>  
+        <li> Algorithm for calculating the Sieve of Eratosthenes - application for Roots</li>  
       </ul>
   </ul>  
 </div>
