@@ -61,15 +61,4 @@ After thinking a while I started to see a light by analysing the name "square ro
 
 First I was thinking that I was spacing out with my observations, but when I found someone else talking the same thing I thought that this really worth to be shared.
 
-{
-   "cell_type": "code",
-   "execution_count": 2,
-   "metadata": {},
-   "outputs": [],
-   "source": [
-    "import random\n",
-    "\n",
-    "x = random.sample(range(1, 10), 9)\n",
-    "y = random.sample(range(1, 10), 9)"
-   ]
-  },
+
