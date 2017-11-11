@@ -60,12 +60,3 @@ One time my son asked me: 'Mom, what is square root?"; and I noticed that I had 
 After thinking a while I started to see a light by analysing the name "square root". In portuguese the translation doesn't really means what it is written in English. In Brazil we say, instead, "root square". This seems to be a detail but for me it makes a huge diferrence in the understanding of this matter. But even for peopleo who talk English this subject it is not completely disclosed. For example, I searched at the internet using the question: "What is square root?" and I mostly find the same response, only aome arithmetical explanation. But we are talking about squares!!! So, where are the squares?; why are they important?; and what is the root of a square? I found the answer in a website for children, very interesting called "[Math is fun](https://www.mathsisfun.com/square-root.html)". And yes, I agree with them!   
 
 First I was thinking that I was spacing out with my observations, but when I found someone else talking the same thing I thought that this really worth to be shared.
-
-<div class="highlight"><pre><span></span><span class="n">reproject</span><span class="p">(</span><span class="n">source</span><span class="p">,</span>
-          <span class="n">dem_array</span><span class="p">,</span>
-          <span class="n">src_transform</span><span class="o">=</span><span class="n">src_transform</span><span class="p">,</span>
-          <span class="n">src_crs</span><span class="o">=</span><span class="n">src_crs</span><span class="p">,</span>
-          <span class="n">dst_transform</span><span class="o">=</span><span class="n">dst_transform</span><span class="p">,</span>
-          <span class="n">dst_crs</span><span class="o">=</span><span class="n">dst_crs</span><span class="p">,</span>
-          <span class="n">resampling</span><span class="o">=</span><span class="n">Resampling</span><span class="o">.</span><span class="n">bilinear</span><span class="p">)</span>
-</pre></div>
