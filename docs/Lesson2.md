@@ -64,3 +64,11 @@ First I was thinking that I was spacing out with my observations, but when I fou
 ### Calculating and visualizing Powers
 
 It is possible to calculate powers repeating the same number by the numbers of times indicated by the power. Instead of using a specific number, I wil show the example using the letter <i>b</i>, meaning the base of a square. In Python, the multiplication signal is represented by the symbol *. See below:
+
+Power of  2  =  b<sup>2</sup>  =  b * b 
+Power of  3  =  b<sup>3</sup>  =  b * b * b
+Power of  4  =  b<sup>4</sup>  =  b * b * b * b , and so on.
+
+So, a power can be written through the following expression:  b<sup>e</sup> , where  <i>b</i>  is the base of the power and  <i>e</i>  is the exponent. In Python, for calculating the power you just need to use the following command: b**e, where  **  is the symbol used to calculate powers. So, to do the calculation you need to replace  <i>b</i>  by one number or a set of numbers (here in Python) and  <i>e</i>  by an integer. See in this [link](https://github.com/raquelsilva/programming_for_teens/blob/master/Calculating_and_visualizing_powers.ipynb) some examples:
+
+
