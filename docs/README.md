@@ -1,6 +1,6 @@
 <h1>Studying interactively with Python</h1>
 
-The lessons are based on the Cambridge lower secondary curriculum for teenagers from 11 up to 15 years old. For accessing the content you can click on the left link or download the notebooks.
+The lessons are based on the Cambridge lower secondary curriculum for teenagers from 11 up to 15 years old. For accessing the content you can click on the left links or download the notebooks. However, It is important to clarify that I am not following linearly the proposed curriculum. My approach is based in meaninful learning, so to say, I try to present the knowledge as long as it is needed to disclose the problem proposed. If you are a teacher, it is important to complement this material with your standard textbook to practice also mechanically some concepts that need to be repeated to be fully understood as, for example, to understand the <b> arithmetic rules </b> or the <b>laws of algebra</b>.
 
 The content exhibited at the website is slightly different from the content available at the notebooks. I am using this feature to make it more interesting for teenagers. But if you want to interact with the codes it is necessary to download the notebooks and follow the instructions.
 
